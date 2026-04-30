@@ -1,75 +1,55 @@
 <p align="center">
- <h3 align="center">Amigo -Voice assistant</h3>
-
+  <h1 align="center">🎙️ Amigo Voice Assistant</h1>
   <p align="center">
-   Console Application which help to do your daily work routine.
+    A smart AI-based voice assistant built using Python that performs daily tasks using voice commands and face recognition.
   </p>
 </p>
 
+---
 
+## 🚀 About The Project
 
+**Amigo Voice Assistant** is a console-based intelligent assistant designed to simplify daily computer tasks using **voice commands** and **face recognition**. It enhances user interaction by allowing hands-free control and secure access.
 
+The assistant can recognize user voice, process commands, and execute tasks efficiently, making it a useful productivity tool.
 
+---
 
+## ✨ Features
 
-## About The Project
-  Console Application which help to do your daily work routine.
+- 🎤 Voice Command Recognition  
+- 🔊 Text-to-Speech Response  
+- 🌐 Search information from Wikipedia  
+- ▶️ Open applications (YouTube, Spotify, WhatsApp, etc.)  
+- ⏰ Provide real-time info (Time, Date)  
+- 💻 Execute system-level commands  
+- 🔐 Face Recognition for secure and personalized access  
+- ➕ Easy to add custom voice commands  
 
-Why Amigo:
-* It can search on wikipedia.
-* It can open YouTube, Spotify, Whatsapp (if installed on your pc) and other cool stuff.
-* You can easily add your command.
+---
 
+## 🛠️ Built With
 
-### Built With
+- Python 3  
+- SpeechRecognition  
+- pyttsx3 (Text-to-Speech)  
+- OpenCV (Face Recognition)  
+- os module  
+- webbrowser module  
+- wikipedia module  
 
-* Python 3
+---
 
+## ⚙️ Installation
 
-<!-- USAGE EXAMPLES -->
-## Usage
-1. It is easy to use just you need is basic Python knowledge
-2. You can add your command inside main method by appending ladder if statements.
+Follow these steps to run the project locally:
 
-```
-elif 'YOUR VOICE COMMAND' in query:
-            speak("YOUR COMMAND")
-            ## YOUR CODE
-```
+```bash
+# Clone the repository
+git clone https://github.com/YashaswiWalunj557/Amigo-Voice-Assistant.git
 
+# Navigate to project folder
+cd Amigo-Voice-Assistant
 
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1. Fork the Project
-2. Create your Feature Branch 
-3. Commit your Changes
-4. Push to the Branch
-5. Open a Pull Request
-
-
-
-
-
-
-<!-- CONTACT -->
-## Contact
-LinkedIn
-[Jaspreet Singh](https://www.linkedin.com/in/jaspreetsidhu13/)
-
-More Projects
-GitHub: [JaspreetSidhu3](https://github.com/jaspreetsidhu3)
-
-
-
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
-* Python 3 language
-* wikipedia library
-* pyttsx3 library
-* os library
-* speech_recognition library
-* webbrowser library
-
+# Install required libraries
+pip install speechrecognition pyttsx3 opencv-python wikipedia
