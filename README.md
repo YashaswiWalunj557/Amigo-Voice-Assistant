@@ -40,6 +40,17 @@ The assistant can recognize user voice, process commands, and execute tasks effi
 
 ---
 
+## 📬 Contact
+
+**Name:** Yashaswi Walunj  
+**GitHub:** https://github.com/YashaswiWalunj557  
+**LinkedIn:**  https://www.linkedin.com/in/yashaswi-walunj-516a25406/
+
+## 🔗 More Projects
+
+Explore more of my work:  
+https://github.com/YashaswiWalunj557
+
 ## ⚙️ Installation
 
 Follow these steps to run the project locally:
